@@ -122,21 +122,6 @@ return array (
                   'opacity' => '0.50',
                 ),
               ),
-              'image' => 
-              array (
-                0 => 
-                array (
-                  'source' => 
-                  array (
-                    'url' => 'https://wps.iconvert.pro/wp/kubio-themes/ketos-default-2/wp-content/uploads/2022/11/hero-4-scaled-1.jpg',
-                  ),
-                  'position' => 
-                  array (
-                    'x' => 100,
-                    'y' => 100,
-                  ),
-                ),
-              ),
               'color' => 'rgba(var(--kubio-color-6),1)',
               'slideshow' => NULL,
             ),
@@ -416,7 +401,6 @@ return array (
                   'source' => 
                   array (
                     'type' => 'image',
-                    'url' => 'https://wps.iconvert.pro/wp/kubio-themes/ketos-default-2/wp-content/uploads/2022/11/hero-4-scaled-1.jpg',
                   ),
                   'position' => 
                   array (

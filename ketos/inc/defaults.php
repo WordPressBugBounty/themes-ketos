@@ -186,11 +186,11 @@ $ketos_gradients                     = array(
 		),
 
 );
-$ketos_theme_action_button           = __( 'Launch it today', 'ketos' );
-$ketos_theme_action_button_secondary = __( 'Learn more', 'ketos' );
+$ketos_theme_action_button           = 'Launch it today';
+$ketos_theme_action_button_secondary = 'Learn more';
 
-$ketos_theme_click_pen_to_edit_title = __( 'The beginning of everything', 'ketos' );
-$ketos_lorem_ipsum                   = __('Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ornare nulla. Aenean massa dolor, molestie vitae mauris eu, euismod sodales odio. Maecenas congue neque rhoncus ornare porttitor.', 'ketos');
+$ketos_theme_click_pen_to_edit_title = 'The beginning of everything';
+$ketos_lorem_ipsum                   = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac ornare nulla. Aenean massa dolor, molestie vitae mauris eu, euismod sodales odio. Maecenas congue neque rhoncus ornare porttitor.';
 
 
 return array(
